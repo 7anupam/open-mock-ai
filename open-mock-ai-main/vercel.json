@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "outputDirectory": "apps/frontend/dist",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/index.js" }
+  ]
+}
