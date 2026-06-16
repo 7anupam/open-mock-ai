@@ -200,7 +200,7 @@ npm run dev
           │  • Home.jsx                          │
           │  • Setup.jsx                         │
           │  • Interview.jsx                     │
-          │  • Report.jsx                        │         Developer:- Shivam Mishra
+          │  • Report.jsx                        │         Developer:- Anupam Ojha
           │                                      │
           │  Web Speech API                      │
           │  (Speech To Text + Text To Speech)   │
@@ -289,7 +289,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ by [Shivam Mishra](https://www.linkedin.com/in/anupamistic)**
+**Built with ❤️ by [Anupam Ojha](https://www.linkedin.com/in/anupamistic)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anupamistic)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/7anupam)
