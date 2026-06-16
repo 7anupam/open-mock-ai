@@ -31,3 +31,10 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 module.exports = app;
+// Health check
+app.get("/api/health", (_, res) => res.json({ status: "ok" }));
+
+// Root Route
+app.get("/", (_, res) => {
+  res.send("Backend is running successfully");
+});
