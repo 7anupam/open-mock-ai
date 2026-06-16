@@ -127,7 +127,7 @@ open-mock-ai/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/shivamishra-02/open-mock-ai.git
+git clone https://github.com/7anupam/open-mock-ai.git
 cd open-mock-ai
 ```
 
@@ -263,7 +263,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project is live at **[open-mock-ai.vercel.app](https://open-mock-ai.vercel.app/)**
+This project is live at **[open-mock-ai.vercel.app](https://open-mock-ai-nine.vercel.app/)**
 
 Deployed on Vercel with serverless backend functions.
 
@@ -289,10 +289,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ by [Shivam Mishra](https://www.linkedin.com/in/shivam-mishra-3a741b253/)**
+**Built with ❤️ by [Shivam Mishra](https://www.linkedin.com/in/anupamistic)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-mishra-3a741b253/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/shivamishra-02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anupamistic)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/7anupam)
 
 <br/>
 
